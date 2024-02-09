@@ -1,0 +1,146 @@
+body, html {
+    height: 100%; 
+    text-align: center;
+}
+
+.site {
+    background-image: url("assets/imageFond.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2em;
+}
+
+.titre {
+    font-family: "pf-pixelscript", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3em;
+    margin: 0.2em;
+}
+
+.titre_2 {
+    font-family: "pf-pixelscript", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.description_accueil {
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-bottom: 0.2em;
+    text-align: left;
+}
+
+.text1 {
+    font-size: 1.2em; 
+    margin-bottom: 0.4em;
+}
+
+.text2 {
+    font-size: 1em; 
+    margin-bottom: 0.4em;
+    font-weight: 500;
+}
+
+.image_moi {
+    width: 12em;
+    margin: 2em;
+    background-color: rgba(182, 219, 228, 0.5);
+}
+
+.btns {
+    text-align: center;
+}
+
+button {
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.image_textes{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center; /* Ajout de cette propriété pour centrer horizontalement les éléments */
+}
+
+/* Ajoutez ces règles pour les écrans de taille moyenne (tablette) */
+@media only screen and (max-width: 1024px) {
+    .titre {
+        font-size: 2.5em;
+    }
+
+    .image_moi {
+        width: 10em;
+        margin: 1.5em;
+    }
+
+    button {
+        padding: 0.9em;
+        margin: 0.4em;
+    }
+}
+
+/* Ajoutez ces règles pour les écrans de petite taille (téléphone) */
+@media only screen and (max-width: 768px) {
+    .site {
+        padding: 1em;
+    }
+
+    .titre {
+        font-size: 2em;
+    }
+
+    .text1 {
+        font-size: 1em;
+    }
+
+    .text2 {
+        font-size: 0.8em;
+    }
+
+    .image_moi {
+        width: 8em;
+        margin: 1em;
+        padding: 1em;
+    }
+
+    .image_textes{
+        display:block;
+        text-align: center;
+        justify-content: center;
+        align-items: center; /* Ajout de cette propriété pour centrer horizontalement les éléments */
+    }
+
+    button {
+        padding: 0.8em;
+        margin: 0.3em;
+    }
+}
+
+/* Ajoutez ces règles pour les écrans de très petite taille (téléphone en mode portrait) */
+@media only screen and (max-width: 480px) {
+    .titre {
+        font-size: 1.5em;
+    }
+
+    .text1 {
+        font-size: 0.8em;
+    }
+
+    .text2 {
+        font-size: 0.7em;
+    }
+
+    .image_moi {
+        width: 6em;
+        margin: 0.5em;
+    }
+
+    button {
+        padding: 0.6em;
+        margin: 0.2em;
+    }
+}
