@@ -28,6 +28,8 @@ Ce format m'a donc donné de l'inspiration pour le design de mes **cartes de vis
 * Webdesignn
 
 Pour aller jusqu'au bout de ce projet, j'ai décidé d'imprimer et de réaliser ce nuancier
-
 > [!IMPORTANT]
 > Pour le dernier projet de l'année pourquoi pas s'éclater jusqu'au bout ! 😉
+
+Voici ce que j'ai réalisé (que vous avez pour tester l'expérience):
+
