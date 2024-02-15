@@ -17,4 +17,16 @@ Ce que je veux montrer c'est la passion que j'ai pour la création numérique ma
 Comme vous pouvez le comprendre dans mon slogan qui est :
 > Mon nuancier de domaines
 
+### Mon concept
 Je voulais mélanger les univers de la création numérique et du print avec un concept de [nuancier de couleur](https://www.peinture-ral.com/40-large_default/nuancier-ral-k7.jpg).
+Ce format m'a donc donné de l'inspiration pour le design de mes cartes et donc par la suite de me donner l'idée de faire ce concept : 1 carte = 1 Qrcode = une compétence.
+
+* All pixels >> Pour montrer les 3 scènes en même temps
+* Design Graphique
+* Développement Front-end
+* Webdesignn
+
+Pour aller jusqu'au bout de ce projet, j'ai décidé d'imprimer et de réaliser ce nuancier
+
+> [!IMPORTANT]
+> Pour le dernier projet de l'année pourquoi pas s'éclater jusqu'au bout ! 😉
