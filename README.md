@@ -17,4 +17,4 @@ Ce que je veux montrer c'est la passion que j'ai pour la création numérique ma
 Comme vous pouvez le comprendre dans mon slogan qui est :
 > Mon nuancier de domaines
 Je voulais mélanger les univers de la création numérique et du print avec un concept de nuancier de couleur
-!
+!(./Accueil_Pixels/nuancier-ral-e3.jpg)
