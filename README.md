@@ -18,4 +18,4 @@ Comme vous pouvez le comprendre dans mon slogan qui est :
 > Mon nuancier de domaines
 
 Je voulais mélanger les univers de la création numérique et du print avec un concept de nuancier de couleur
-!
+!(nuancier-ral-e3.jpg)
