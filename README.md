@@ -39,12 +39,12 @@ Voici ce que j'ai réalisé (nuancier de cartes de visites):
 > [!CAUTION]
 > mettre la vidéo de présentation du nuancier
 
-## Mes cartes de visites - séparés 
+# Mes cartes de visites - séparés 
 
-# N°1 | Design Graphique 
+## N°1 | Design Graphique 
 Pour cette carte, j'ai voulu représenter les outils que me permettent de me mieux connaître le domaine mais aussi des outils de conception comme la suite Adobe, Figma ...
 Cette carte permet d'accéder à la scène 1 qui fait partie de mes domaines de prédilection. Cette scène a été réalisée en mode AR dans une scènes 3D simple.
 
-# N°2 | Webdesign
+## N°2 | Webdesign
 
-# N°3 | Développement Front-end
+## N°3 | Développement Front-end
