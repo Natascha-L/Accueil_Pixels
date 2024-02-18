@@ -69,7 +69,7 @@ Pour cette carte, vous allez retrouver 1 scène en AR avec le qrcode hiro d'un d
 ![hiro 1](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/dce45991-dea6-4f0c-b3af-5fb8435a7e1d)
 
 
-# Bonne visite ensuite sur mon porfolio !
+# Bonne visite !
 
 
 
