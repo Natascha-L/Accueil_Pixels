@@ -44,27 +44,31 @@ https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/50227e7a-7dc2-458f
 
 ## N°All | Tous mes domaines
 Pour cette carte, vous allez retrouver mes 3 scènes = 3 domaines que si vous ne souhaitez visionner une expérience pour 3.
+
 ![Frame 24](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/35745811-e6c7-4946-9157-415c72b0b35e)
 
 ## N°1 | Design Graphique 
 
 Pour cette carte, j'ai voulu représenter les outils que me permettent de me mieux connaître le domaine mais aussi des outils de conception comme la suite Adobe, Figma ...
 Cette carte permet d'accéder à la scène 1 qui fait partie de mes domaines de prédilection. Cette scène a été réalisée en mode AR dans une scènes 3D simple.
+
 ![Frame 25](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/aeee5427-4b40-42f4-a63d-9e4279c3eb8f)
 
 
 ## N°2 | Webdesign
 
 Pour cette carte, vous allez retrouver 1 scène qui représente en grande partie notre formation MMI en création numérique spécialisé dans le webdesign.
+
 ![Frame 24-1](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/3c7318ea-ad5d-40c5-ad05-f553812a6d12)
 
 
 ## N°3 | Développement Front-end
 Pour cette carte, vous allez retrouver 1 scène en AR avec le qrcode hiro d'un domaine que j'apprécie même si je peux avoir des difficultés sur celle-ci "le développement front-end.
+
 ![Frame 26](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/464e449b-bfbc-4536-ad39-3ae264cdb3f0)
 
 
-Bonne visite ensuite sur mon porfolio !
+# Bonne visite ensuite sur mon porfolio !
  
 
 
