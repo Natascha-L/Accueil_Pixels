@@ -40,7 +40,7 @@ Pour aller jusqu'au bout de ce projet, j'ai décidé d'imprimer et de réaliser 
 
 Voici ce que j'ai réalisé (nuancier de cartes de visites):
 
-https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/3a615890-e01c-4d35-a67a-04d0764c1d84
+https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/50227e7a-7dc2-458f-a09e-6ace1a091a6e
 
 # Mes cartes de visites - séparés 
 
@@ -53,9 +53,6 @@ Cette carte permet d'accéder à la scène 1 qui fait partie de mes domaines de 
 
 ## N°2 | Webdesign
 
-
-
-
 Pour cette carte, vous allez retrouver 1 scène qui représente en grande partie notre formation MMI en création numérique spécialisé dans le webdesign.
 
 ## N°3 | Développement Front-end
@@ -63,3 +60,6 @@ Pour cette carte, vous allez retrouver 1 scène en AR avec le qrcode hiro d'un d
 
 Bonne visite ensuite sur mon porfolio !
  
+
+
+
