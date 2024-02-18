@@ -3,7 +3,7 @@
 ### Slogan : Mon nuancier de domaines
 
 Créations :
-* un site web d'accueil des différentes scènes
+* un site web d'accueil des différentes scènes 
 * un nuancer de cartes de visites (Tous mes domaines + 3 scènes (confier au préalable)
 * 3 expériences créer avec A-frame
 
@@ -37,7 +37,7 @@ Voici ce que j'ai réalisé (nuancier de cartes de visites) :
 
 https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/50227e7a-7dc2-458f-a09e-6ace1a091a6e
 
-## Mon site site Web d'accueil
+## Mon site [site Web](https://natascha-l.github.io/Accueil_Pixels/) d'accueil
 ![Group 5](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/67caa300-7b5a-4061-9f29-ffcb0bf3b31a)
 
 # Mes cartes de visites - séparés 
