@@ -2,14 +2,33 @@ body, html {
     height: 100%; 
     text-align: center;
 }
-
 .site {
     background-image: url("assets/imageFond.png");
-    height: 100%;
-    background-position: center;
+    height: 100vh; /* Utilisation de 100vh pour une hauteur à 100% de la fenêtre */
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     padding: 2em;
+    place-content: center;
+}
+.site2 {
+    background-image: url("assets/imageFond.png");
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 2em;
+    place-content: center;
+    display: flex;
+}
+.carte{
+    padding: 1em;
+}
+
+
+.n3{
+    justify-content: center;
+    align-self: center;
 }
 
 .titre {
@@ -86,6 +105,7 @@ body, html {
     }
 
 
+
 }
 
 /* Ajoutez ces règles pour les écrans de petite taille (téléphone) */
@@ -121,6 +141,7 @@ body, html {
     }
 
 
+
 }
 
 /* Ajoutez ces règles pour les écrans de très petite taille (téléphone en mode portrait) */
@@ -144,5 +165,5 @@ body, html {
         margin: 0.5em;
     }
 
-
+    
 }
