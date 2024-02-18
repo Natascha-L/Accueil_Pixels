@@ -66,7 +66,7 @@ Pour cette carte, vous allez retrouver 1 scène qui représente en grande partie
 Pour cette carte, vous allez retrouver 1 scène en AR avec le qrcode hiro d'un domaine que j'apprécie même si je peux avoir des difficultés sur celle-ci "le développement front-end.
 
 ![Frame 26](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/464e449b-bfbc-4536-ad39-3ae264cdb3f0)
-![hiro](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/45401610-d6c4-482e-8569-974fa9f2ab90)
+![hiro 1](https://github.com/Natascha-L/Accueil_Pixels/assets/144129129/dce45991-dea6-4f0c-b3af-5fb8435a7e1d)
 
 
 # Bonne visite ensuite sur mon porfolio !
